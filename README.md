@@ -48,3 +48,40 @@
 
 ## 📁 Folder Structure
 
+drapevibes/
+<br>
+│
+<br>
+├── client/ # React frontend
+<br>
+├── server/ # Node.js backend
+<br>
+├── public/ # Static assets
+<br>
+└── README.md # Project documentation
+<br>
+
+---
+
+## 🌟 Future Enhancements
+
+- 🧠 ML-based outfit recommendation engine  
+- 🪞 Realistic AR-based mirror try-on  
+- 👯‍♀️ Social sharing & community style boards  
+- 📱 Mobile app version  
+- 🧾 Invoice & order tracking integration
+
+---
+
+## 👩‍💻 Developed By
+
+**Vidhi Rawat**  
+🛠️ Data Science & Web Development Enthusiast  
+📧 [vidhirawat54@gmail.com]  
+🔗 [https://www.linkedin.com/in/vidhi-rawat-8a795928b/](https://www.linkedin.com/in/vidhi-rawat-8a795928b/)
+
+---
+
+> ⭐ Feel free to star this repository if you like the idea or want to support the project.
+
+
