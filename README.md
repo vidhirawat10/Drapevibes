@@ -1,4 +1,4 @@
-<h1 align="center">👗 DrapeVibes</h1>
+in<h1 align="center">👗 DrapeVibes</h1>
 <p align="center">
   <em>Your Virtual Fashion Stylist & Custom Clothing Design Platform</em>
 </p>
@@ -83,5 +83,6 @@ drapevibes/
 ---
 
 > ⭐ Feel free to star this repository if you like the idea or want to support the project.
+> Open for collaboration in such DS-ML ideas 
 
 
